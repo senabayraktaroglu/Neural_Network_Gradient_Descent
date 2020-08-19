@@ -1,18 +1,11 @@
 # Neural_Network_Gradient_Descent
 Neural network algorithm with gradient descent is implemented without using a neural network library.
 
-
-Equation derivations for one hidden layer
-Figure 1 Simple neural network architecture with 1 hidden layer
-
-In the backprogation algorithm, first error will be calculated using feed forward.
+# Goal of the project 
 
 A multi layer neural network is implemented with using back propagation
 algorithm, mini-batch gradient descent and momentum. Different hyperparameters
-are experimented to find optimal model. First size of mini batch experimented
-when number of hidden units is 15. The best batch size found as 10.
-Also while initializing weights, standart deviation of random initialization set
-as m􀀀1=2 where m is number of inputs to hidden unit. 
+are experimented to find optimal model. 
 
 # One hidden layer neural network equations and neural network architecture
  - One hidden layer neural network architecture :
